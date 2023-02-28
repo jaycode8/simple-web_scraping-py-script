@@ -1,0 +1,6 @@
+
+# ----------- usage: pip install -r requirements.txt
+beautifulsoup4
+lxml
+requests
+pymongo
